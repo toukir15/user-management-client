@@ -29,7 +29,7 @@ function App() {
         setUsers(newUsers);
         form.reset();
       });
-    console.log(user);
+    // console.log(user);
   };
   return (
     <>
